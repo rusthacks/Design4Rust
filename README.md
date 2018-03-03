@@ -1,1 +1,1 @@
-# Design4Rust
+# Rust Hacks Open Design
