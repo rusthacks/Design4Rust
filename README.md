@@ -2,13 +2,13 @@
 
 **You can find all the Rust related design resources here or can request for designs.**
 
-If you haven't already, follow the RustHacks Telegram Channel
+If you haven't already, follow the RustHacks Telegram Channel or on Twitter.
 
-[![Join the chat at https://t.me/RustHacks](https://patrolavia.github.io/telegram-badge/follow.png)](https://t.me/RustHacks)
+[![Join the chat at https://t.me/RustHacks](https://patrolavia.github.io/telegram-badge/follow.png)](https://t.me/RustHacks)   [![Follow RustHacks at https://twitter.com/RustHack](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40RustHack)](https://twitter.com/RustHack)
 
 ## Welcome
 
-Welcome to the RustHacks Open Design Repo. Here you can file issues with your design requests for the design group, find collaborators, or find design tasks to tackle. Don't forget to use the [Issue Template](#issue-template:) below to make sure you are including all the relevant information!
+Welcome to the RustHacks Open Design Repo. Here you can file issues with your design requests for the design group, find collaborators, or find design tasks to tackle. Don't forget to use the Issue Template below to make sure you are including all the relevant information!
 
 Anyone can take (or make) a design issue, as long as it is related to Rust.
 
