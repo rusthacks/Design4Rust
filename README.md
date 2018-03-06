@@ -1,6 +1,6 @@
 # Rust Hacks Open Design
 
-**You can find all the Rust Hacks related design resources here or can request for designs.**
+**You can find all the Rust related design resources here or can request for designs.**
 
 If you haven't already, follow the RustHacks Telegram Channel
 
